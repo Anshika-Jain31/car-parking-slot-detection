@@ -76,7 +76,7 @@ Make sure sample videos (`easy1.mp4`, `easy2.mp4`, etc.) are placed in the `vide
 
 ## 🧑‍💻 Authors
 
-**Komal Jain**  
+**Anshika Jain**  
 [Teerthanker Mahaveer University]  
 Project submitted to **Cogent infotech**
 
